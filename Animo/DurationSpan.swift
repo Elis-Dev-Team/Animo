@@ -23,6 +23,7 @@
 //  SOFTWARE.
 //
 
+import Foundation
 
 // MARK: - DurationSpan
 
