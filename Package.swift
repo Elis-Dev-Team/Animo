@@ -19,7 +19,7 @@ let package = Package(
             name: "Animo",
             dependencies: [],
             path: "Animo",
-            exclude: "Animo/Info.plist"
+            exclude: [ "Animo/Info.plist" ]
         )
     ],
     swiftLanguageVersions: [.v4]
